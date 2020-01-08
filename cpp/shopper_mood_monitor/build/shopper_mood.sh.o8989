@@ -1,0 +1,17 @@
+
+########################################################################
+#      Date:           Sun Dec 29 22:28:10 PST 2019
+#    Job ID:           8989.v-qsvr-1.devcloud-edge
+#      User:           u33139
+# Resources:           neednodes=1:tank-870:e3-1268l-v5,nodes=1:tank-870:e3-1268l-v5,walltime=01:00:00
+########################################################################
+
+[setupvars.sh] OpenVINO environment initialized
+Video processing thread stopped
+MQTT sender thread stopped
+
+########################################################################
+# End of output for job 8989.v-qsvr-1.devcloud-edge
+# Date: Sun Dec 29 22:28:28 PST 2019
+########################################################################
+

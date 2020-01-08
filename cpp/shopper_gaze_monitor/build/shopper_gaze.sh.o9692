@@ -1,0 +1,20 @@
+
+########################################################################
+#      Date:           Sun Jan  5 21:43:57 PST 2020
+#    Job ID:           9692.v-qsvr-1.devcloud-edge
+#      User:           u33139
+# Resources:           neednodes=1:tank-870:i5-6500te,nodes=1:tank-870:i5-6500te,walltime=01:00:00
+########################################################################
+
+[setupvars.sh] OpenVINO environment initialized
+Starting main
+After Commandline parser
+Arg count:4
+Model checking
+conf_modelLayers: inside cpp:models/intel/face-detection-adas-0001/FP32/face-detection-adas-0001.xml
+
+########################################################################
+# End of output for job 9692.v-qsvr-1.devcloud-edge
+# Date: Sun Jan  5 21:44:00 PST 2020
+########################################################################
+

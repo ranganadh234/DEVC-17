@@ -1,0 +1,4 @@
+terminate called after throwing an instance of 'cv::Exception'
+  what():  OpenCV(4.1.2-openvino) /home/jenkins/workspace/OpenCV/OpenVINO/build/opencv/modules/dnn/src/op_inf_engine.cpp:704: error: (-215:Assertion failed) Failed to initialize Inference Engine backend: Can not init Myriad device: NC_ERROR in function 'initPlugin'
+
+/var/spool/torque/mom_priv/jobs/8964.v-qsvr-1.devcloud-edge.SC: line 34: 27942 Aborted                 ./monitor -m=models/intel/face-detection-adas-0001/$FP_MODEL/face-detection-adas-0001.bin -c=models/intel/face-detection-adas-0001/$FP_MODEL/face-detection-adas-0001.xml -sm=models/intel/emotions-recognition-retail-0003/$FP_MODEL/emotions-recognition-retail-0003.bin -sc=models/intel/emotions-recognition-retail-0003/$FP_MODEL/emotions-recognition-retail-0003.xml -i=$INPUT_FILE -o=$OUTPUT_FILE -b=$BACKENED -t=$TARGET

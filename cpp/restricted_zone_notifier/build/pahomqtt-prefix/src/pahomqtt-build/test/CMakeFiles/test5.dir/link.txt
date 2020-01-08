@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/test5.dir/test5.c.o  -o test5 -Wl,-rpath,/home/u33139/DEVC_17_dec23/iot-devcloud/cpp/restricted_zone_notifier/build/pahomqtt-prefix/src/pahomqtt-build/src ../src/libpaho-mqtt3as.so.1.3.1 -lssl -lcrypto -lc -ldl -lpthread 
